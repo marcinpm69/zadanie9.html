@@ -20,14 +20,14 @@
     </header>
 
     <section>
-        <h1>O nas</h1>
+        <h2>O nas</h2>
         <p>
             Programista świeżak
         </p>
     </section>
 
     <section>
-        <h1>Kontakt</h1>
+        <h2>Kontakt</h2>
         <p>
             tel: 888 888 888
         </p>
